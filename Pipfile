@@ -4,6 +4,7 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [packages]
+gurobipy = "==9.5.0"
 jupyter = "1.0.0"
 numpy = "==1.21.4"
 
