@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "eed004fad62d047a80e060c656be807cf80931f8f3135975f373b4c0a50bad0e"
+            "sha256": "4a94b3fdeb358e09f52964abc82e06efe7f3c3e741b02f5af33d9c45414bd4aa"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -177,6 +177,28 @@
             ],
             "markers": "python_version >= '2.7'",
             "version": "==0.3"
+        },
+        "gurobipy": {
+            "hashes": [
+                "sha256:0eed078fffc594a43091bdbd4b22f2c8acb342e3b816391dc819a6ec303740c9",
+                "sha256:179c8e13ed0018c1e85476a875467275cccd4a737318651c72ccec189879e9c0",
+                "sha256:2258b59041256a2af6e128e9cae49eaba16ce8ec47a89c1bd0f42fb1c99bfb41",
+                "sha256:28045407840ffa864d22d06292ffdf47452e52a4f39c25210ccb258627fa145c",
+                "sha256:4e825df14b50f2bfcee97070c7cd535806158c412b03b30b4c914b97c5997347",
+                "sha256:504ce31ca08ea0806fd908ec65842b0e12f14224839b7d5520486bcda1609901",
+                "sha256:5b7c9a96d4016c6617d3cf224346e547551ef6dec2bfef95ab4e59e09afd2af6",
+                "sha256:69bc333112682099930a994ad0de605ce612b7d5e2c23da9451935129b5fb4c8",
+                "sha256:6f8afe13f0efe9d2ae39538768a42579b97aed4faeda4d8d415dc8184e146886",
+                "sha256:76e4bc2da3732b3e5f25147e5afea948ffa5df51111a822b50717f3b54fcd7ab",
+                "sha256:86428ea00f8447c0795d7f092e82b64d58cecbc54d411f8fc2b38cb0953a4511",
+                "sha256:92fdeb9060610c2a45d9f5dd14e2ba7c79915573bce104c5f30d32bf01f3f3ef",
+                "sha256:e1683fb60c2b89cbfcf79c453866d59db651ddc40d7ca6dcdf74cebe6ecfbebd",
+                "sha256:ebb17b5b25b4ab7e25500983e187213cdea410a76a1b8fa4e19b9b5042cecb20",
+                "sha256:ece3c9a7290c81e7df54cded097d0e5364e1ac0a071bae3bda8dffa1a336d3f3",
+                "sha256:f0e10646b9fb4457db5e410c7c7642d7e3cec1c5629d78e53830c42d55358f38"
+            ],
+            "index": "pypi",
+            "version": "==9.5.0"
         },
         "importlib-metadata": {
             "hashes": [
@@ -524,6 +546,14 @@
             ],
             "markers": "os_name != 'nt'",
             "version": "==0.7.0"
+        },
+        "pulp": {
+            "hashes": [
+                "sha256:5dc7d76bfb1da06ac048066ced75603340d0d7ba8a7dbfce4040d6f126eda0d5",
+                "sha256:dec41176fcb5d935726f98d4ad5e51346ba7165b3ec814e44dbd762006b0a605"
+            ],
+            "index": "pypi",
+            "version": "==2.5"
         },
         "pycparser": {
             "hashes": [
